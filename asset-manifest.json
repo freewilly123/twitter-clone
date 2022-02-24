@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twitter-clone/static/css/main.ca565a6d.css",
+    "main.js": "/twitter-clone/static/js/main.207527f0.js",
+    "static/js/787.e8607b80.chunk.js": "/twitter-clone/static/js/787.e8607b80.chunk.js",
+    "index.html": "/twitter-clone/index.html",
+    "main.ca565a6d.css.map": "/twitter-clone/static/css/main.ca565a6d.css.map",
+    "main.207527f0.js.map": "/twitter-clone/static/js/main.207527f0.js.map",
+    "787.e8607b80.chunk.js.map": "/twitter-clone/static/js/787.e8607b80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca565a6d.css",
+    "static/js/main.207527f0.js"
+  ]
+}
